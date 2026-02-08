@@ -1,8 +1,8 @@
-<h1 align="center">Link Spammer</h1>
+<h1 align="center">macro</h1>
 
 <div align="center">
   
-  <strong>Opens a bunch of tabs to somthing you set! Install it once on your RPI Pico 1, use it on most computers! </strong>
+  <strong>A collection of macros! Install it once on your RPI Pico 1, use it on most computers! </strong>
 </div>
 
 
